@@ -1,0 +1,49 @@
+/* Add to your stylesheet or in a styled component */
+
+.testimonial-section {
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .testimonial-background {
+    background-size: cover;
+    background-position: center;
+    padding: 40px 0;
+    color: #fff;
+  }
+  
+  .testimonial-content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .testimonial-item {
+    margin: 20px;
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    background: rgba(255, 255, 255, 0.8);
+  }
+  
+  .testimonial-item img {
+    max-width: 100px;
+    border-radius: 50%;
+  }
+  
+  .rating-container {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    margin: 10px 0;
+  }
+  
+  .star-rating {
+    font-size: 1.2em;
+    color: gold;
+  }
+  
+  .star-rating .filled {
+    color: gold;
+  }
+  
