@@ -7,13 +7,14 @@ import Footer from './pages/Footer'
 import AboutUs from './pages/AboutUs'
 import ContactUs from './pages/ContactUs'
 import Explore from './pages/Explore'
+import ScrollToTop from './component/ScrollTop'
 
 import Roompage from './pages/Roompage'
 
 const App = () => {
   return (
     <BrowserRouter>
-    
+      <ScrollToTop />
     <Header/>
     <Routes>
       <Route path='/' element={<Home/>}/>
