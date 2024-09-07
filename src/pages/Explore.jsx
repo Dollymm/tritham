@@ -3,7 +3,7 @@
 import React from 'react';
 import kedar2 from '../assets/kedar.webp';
 import bhairav from '../assets/bhairavMandir.jpg';
-import vishwa from '../assets/vishwanath.jpg';
+import vishwa from '../assets/Vishwanath.jpg';
 import triyugi from '../assets/triyugi.webp';
 
 import Card from '../component/Card';
