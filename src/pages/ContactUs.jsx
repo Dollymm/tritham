@@ -38,8 +38,8 @@ const ContactUs = () => {
         <div>
           <h4 className="text-xl font-semibold">Hotel Address</h4>
           <p className="text-gray-700">
-            Near Badrish Lake, Badrinath<br />
-            Temple Rd, Badrinath, Uttarakhand 246422
+          Shri Tritham Residency Guptkashi Phata, Byung<br />
+          Korkhitalli, Uttarakhand 246439
           </p>
         </div>
       </li>
